@@ -12,10 +12,10 @@ Spring REST service that manage a small movie theatre. Handle HTTP requests in c
 ## Illustrations
 
 ### Create Cinema
-![](createCinema.png)
+![](screenshot/createCinema.png)
 
 ### Purchase ticket
-![](purchaseTicket.png)
+![](screenshot/purchaseTicket.png)
 
 ### Return ticket
-![](returnTicket.png)
+![](screenshot/returnTicket.png)
