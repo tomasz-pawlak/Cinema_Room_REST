@@ -10,3 +10,23 @@ Quiz type web application project. The project uses the HTTP protocol (requests 
 - Spring Security
 - Hibernate
 - H2 Database
+
+## Illustrations
+
+### Register user
+![](screenshot/register.png)
+
+### Create quiz
+![](screenshot/createQuiz.png)
+
+### Solve quiz
+![](screenshot/solveQuiz.png)
+
+### GetAll quiz
+![](screenshot/getAllQuiz.png)
+
+### GetSolved quiz
+![](screenshot/getAllCompletedQuiz.png)
+
+### Delete quiz
+![](screenshot/deleteQuiz.png)
