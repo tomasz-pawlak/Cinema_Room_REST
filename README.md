@@ -11,21 +11,11 @@ Spring REST service that manage a small movie theatre. Handle HTTP requests in c
 
 ## Illustrations
 
-### Register user
-![](screenshot/register.png)
+### Create Cinema
+![](createCinema.png)
 
-### Create quiz
-![](screenshot/createQuiz.png)
+### Purchase ticket
+![](purchaseTicket.png)
 
-### Solve quiz
-![](screenshot/solveQuiz.png)
-
-### GetAll quiz
-![](screenshot/getAllQuiz.png)
-
-### GetSolved quiz
-![](screenshot/getAllCompletedQuiz.png)
-
-### Delete quiz
-![](screenshot/deleteQuiz.png)
-
+### Return ticket
+![](returnTicket.png)
